@@ -1,4 +1,4 @@
-# GStream-Pipeline
+# GStream Video Pipeline
 Processing and sending video using gstream and no ROS
 
 ## Usage
